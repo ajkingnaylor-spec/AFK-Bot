@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "RebelSMPS1remake.aternos.me",
-    "port": 36146,
+    "port": "36146",
     "version": "",
     "try-creative": false
   },
